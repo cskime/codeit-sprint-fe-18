@@ -16,44 +16,61 @@
 
 - 스프린트 기간 중 3번의 협업 프로젝트 진행
 - 모든 프로젝트를 주도적으로 리드하며 다양한 역할 수행
-  - 프로젝트 초기 설정 및 배포
+  - 프로젝트 설정 및 배포
   - 팀원 별 실력 차이를 고려한 R&R 분배
-  - 개발 일정 관리
+  - 개발 공수 산정 및 일정 관리
   - 팀원들이 올리는 PR 검토 및 코드 리뷰
-  - 프로젝트 중 발생하는 문제 해결
-- 프로젝트에 적극적으로 참여하고 원활하게 소통하며 팀원들에게 긍정적인 피드백을 받음
+  - 팀원들이 겪는 문제 해결 및 개발 병목 해소
 
 ### [Rolling: 롤링 페이퍼 커뮤니티 플랫폼](https://github.com/cskime/rolling)
 
 10주차에 2주간 진행한 기초 프로젝트
 
-- 역할 : 팀원
-- 경험 : 
-- 기여 : 
+- 역할 : 4명 중 팀원으로 참여
+- 경험
+  - 
+- 기여
+  - 전체 commit의 약 65% push
+  - 전체 issue의 약 53% 생성
+  - 전체 PR의 약 65% 생성
 
 ### [Taskify: 커뮤니티 일정 관리 및 공유 서비스](https://github.com/cskime/Taskify)
 
 17주차에 2주간 진행한 중급 프로젝트
 
-- 역할 : 팀장
-- 경험 : 
-- 기여 : 
+- 역할 : 4명 중 팀장으로 참여
+- 경험
+  - 
+- 기여
+  - 전체 commit의 약 29% push
+  - 전체 issue의 약 24% 생성
+  - 전체 PR의 약 23% 생성
 
 ### [Coworkers: 업무 배정 및 현황 공유 서비스](https://github.com/cskime/coworkers)
 
 22주차에 4주간 진행한 심화 프로젝트
 
-- 역할 : 팀장
-- 경험 : 
-- 기여 : 
+- 역할 : 4명 중 팀장으로 참여
+- 경험
+  - 
+- 기여
+  - 전체 commit의 약 54% push
+  - 전체 issue의 약 ㅇ% 생성
+  - 전체 PR의 약 ㅇ% 생성
 
 ### 프로젝트 종료 후 동료 평가
 
-<img src="./images/peer-review-1.png" />
+프로젝트에 적극적으로 참여하고 원활하게 소통하며 팀원들에게 긍정적인 피드백을 받음
+
+<img src="./images/peer-review-1.png" alt="기초 프로젝트 피어 리뷰" />
 
 ---
 
-<img src="./images/peer-review-2.png" />
+<img src="./images/peer-review-2.png" alt="중급 프로젝트 피어 리뷰" />
+
+---
+
+<img src="#" alt="심화 프로젝트 피어 리뷰" />
 
 ## 활동
 
@@ -63,6 +80,15 @@
 
 - [코어 자바스크립트 도서 스터디](https://github.com/cskime/study-log/tree/main/core-javascript)
 - [React 공식 문서 스터디](https://github.com/FE18-Survivor/react-docs-study)
+
+### 학습 관련 질문/답변
+
+- 스프린트 과정 중 이해되지 않는 개념들을 끝까지 이해하고 넘어가려고 노력함
+- 깊이있는 질문 답변 과정을 통해 좋은 답변을 얻기 위한 좋은 질문 하는 방법을 배움
+- 질문/답변을 통해 알게된 것
+  - [`styled-components`의 transient prop](https://cskime.notion.site/styled-components-transient-prop-24140013923d80dca69ac17d71bf8bcd?source=copy_link)
+  - Next.js에서 SSG와 ISR의 동작 방식
+  - Next.js에서 On-Demand ISR 방식을 사용할 때 client caching 문제 (unstable_skipClientCache)
 
 ### 리팩터링 릴레이
 

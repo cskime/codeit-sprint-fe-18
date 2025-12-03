@@ -85,10 +85,9 @@
 
 - 스프린트 과정 중 이해되지 않는 개념들을 끝까지 이해하고 넘어가려고 노력함
 - 깊이있는 질문 답변 과정을 통해 좋은 답변을 얻기 위한 좋은 질문 하는 방법을 배움
-- 질문/답변을 통해 알게된 것
-  - [`styled-components`의 transient prop](https://cskime.notion.site/styled-components-transient-prop-24140013923d80dca69ac17d71bf8bcd?source=copy_link)
-  - Next.js에서 SSG와 ISR의 동작 방식
-  - Next.js에서 On-Demand ISR 방식을 사용할 때 client caching 문제 (unstable_skipClientCache)
+- 질문/답변을 통해 알게 된 내용 정리
+  - [styled-components에서 ‘spacing’ prop을 transient prop으로 사용하지 않아도 error가 발생하지 않는 이유](https://cskime.notion.site/styled-components-transient-prop-24140013923d80dca69ac17d71bf8bcd?source=copy_link)
+  - [On-Demand ISR 구현 시 revalidate page가 변경된 data로 갱신되지 않는 문제](https://cskime.notion.site/On-Demand-ISR-revalidate-page-data-2bd40013923d8013b6d3f5430c6ccf19?source=copy_link)
 
 ### 리팩터링 릴레이
 

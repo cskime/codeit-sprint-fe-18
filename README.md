@@ -12,9 +12,9 @@
   - Zustand, React Query
 - 성과
   - 출석 100%로 수료
-    <img src="./images/awards-attendance.png" alt="코드잇 출결상" width="400px" />
+    <br><img src="./images/awards-attendance.png" alt="코드잇 출결상" width="300px" /><br>
   - 가장 많은 스프린트 미션 수행
-    <img src="./images/awards-commit-king.png" alt="코드잇 미션상" width="400px" />
+    <br><img src="./images/awards-commit-king.png" alt="코드잇 미션상" width="300px" /><br>
 
 ## Projects
 

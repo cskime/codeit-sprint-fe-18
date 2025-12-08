@@ -32,10 +32,14 @@
 
 - 역할 : 4명 중 팀원으로 참여
 - 경험
-  - 
+  - React를 활용한 SPA 개발
+  - Styled components를 활용한 styling
+  - 공통 컴포넌트 개발; Animation을 고려한 modal 컴포넌트 개발
+  - `IntersectionObserver` Web API를 활용한 무한 스크롤 구현
+  - Vercel 배포
 - 기여
   - 전체 commit의 약 65% push
-  - 전체 issue의 약 53% 생성
+  - 전체 issue의 약 53% 개발
   - 전체 PR의 약 65% 생성
 
 ### [Taskify: 커뮤니티 일정 관리 및 공유 서비스](https://github.com/cskime/Taskify)
@@ -44,10 +48,15 @@
 
 - 역할 : 4명 중 팀장으로 참여
 - 경험
-  - 
+  - Next.js를 활용한 web application 개발
+  - CSS modules를 활용한 styling
+  - 공통 컴포넌트 개발
+  - CSR, SSR, ISR 등 page에 적합한 rendering 방식 고민, 개발
+  - SSR 환경에서 Web API 사용 시 문제 해결 경험
+  - Next.js API routes와 `HttpOnly` cookie를 활용하여 보안을 고려한 access token 인증 로직 구현
 - 기여
   - 전체 commit의 약 29% push
-  - 전체 issue의 약 24% 생성
+  - 전체 issue의 약 24% 개발
   - 전체 PR의 약 23% 생성
 
 ### [Coworkers: 업무 배정 및 현황 공유 서비스](https://github.com/cskime/coworkers)
@@ -56,11 +65,16 @@
 
 - 역할 : 4명 중 팀장으로 참여
 - 경험
-  - 
+  - Next.js를 활용한 web application 개발
+  - Tailwind CSS를 활용한 styling
+  - 공통 컴포넌트 개발
+  - SSR 환경에서 API routes와 middleware(proxy)를 활용한 유저 인증 로직 구현
+  - React Query와 Zustand를 활용한 상태 관리
+  - `overlay-kit` package를 활용한 선언적 modal 관리
 - 기여
   - 전체 commit의 약 54% push
-  - 전체 issue의 약 ㅇ% 생성
-  - 전체 PR의 약 ㅇ% 생성
+  - 전체 issue의 약 49% 개발
+  - 전체 PR의 약 48% 생성
 
 ### 프로젝트 종료 후 동료 평가
 

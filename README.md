@@ -88,7 +88,7 @@
 
 ---
 
-<img src="#" alt="심화 프로젝트 피어 리뷰" />
+<img src="./images/peer-review-3.png" alt="심화 프로젝트 피어 리뷰" />
 
 ## 활동
 
